@@ -1,5 +1,8 @@
 _repo: Practicable-Socialism-Essays-on-Social-Reform_64263
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64263-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barnett, Henrietta Octavia
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52827'
     url: http://www.gutenberg.org/2009/agents/52827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64263#Practicable-Socialism-Essays-on-Social-Reform
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
